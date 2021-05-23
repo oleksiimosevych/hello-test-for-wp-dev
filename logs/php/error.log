@@ -1,0 +1,4 @@
+[23-May-2021 09:47:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\regos\Local Sites\wordpress\app\public\wp-content\plugins\hello-world\hello-world.php on line 13
+[23-May-2021 09:47:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\regos\Local Sites\wordpress\app\public\wp-content\plugins\hello-world\hello-world.php on line 13
+[23-May-2021 10:40:32 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\regos\Local Sites\wordpress\app\public\wp-content\plugins\hello-world\hello-world.php on line 30
+[23-May-2021 10:40:33 UTC] PHP Parse error:  syntax error, unexpected '?' in C:\Users\regos\Local Sites\wordpress\app\public\wp-content\plugins\hello-world\hello-world.php on line 30
