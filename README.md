@@ -10,8 +10,9 @@ Ok, if you want to test this app you have to
 7. if you want to see how is working custom post type and custom taxxonomy - you have to login as admin. login is admin password is admin2021
 8. if plugins were not activated - activate it.
 9. if you want to see my code - download it and research.
-10. if you can not access than you can watch my notes with screenshots (may 2021 it is avaible now)
-11. thank you for your time,
+10. if you can not access than you can watch my notes with screenshots (may 2021 it is avaible now) https://www.evernote.com/shard/s170/sh/8e0e385c-07b4-2aa8-14a8-182f743e64c8/5a7d75b1cafe2dee9dbc00a2cac36008
+
+Thank you for your time,
 
 With respect 
 Oleksii Mosevych
